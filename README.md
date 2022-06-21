@@ -2,8 +2,6 @@
 
 endpoint URL : `http://image-filter-starter-build.us-east-1.elasticbeanstalk.com/`
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c0b327a2-414b-4cd5-b98e-60ca0b7ce656/deploy-status)](https://app.netlify.com/sites/venerable-klepon-cfbb56/deploys)
-
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
 
 The project is split into three parts:
